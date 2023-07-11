@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\bin\Debug\Gotoexample.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\bin\Debug\Gotoexample.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\bin\Debug\Gotoexample.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\obj\Debug\Gotoexample.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\obj\Debug\Gotoexample.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\obj\Debug\Gotoexample.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\obj\Debug\Gotoexample.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\Gotoexample\Gotoexample\obj\Debug\Gotoexample.pdb
